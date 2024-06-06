@@ -1,0 +1,9 @@
+﻿@model List<Convenio>
+
+@{
+    ViewData["Title"] = "Convio";
+}
+@foreach (var convenio in Model.Select((value, index) => new { Value = value, Index = index }))
+{
+    <option value="@convenio.Value.Id_Convenio">@convenio.Value.Nome</option>
+}

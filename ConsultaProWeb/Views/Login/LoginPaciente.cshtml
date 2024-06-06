@@ -1,0 +1,41 @@
+﻿@model Users
+
+@{
+    ViewData["Title"] = "Login Medico";
+    <link rel="stylesheet" href="~/css/Cadastro.css" asp-append-version="true" />
+    Layout = null;
+}
+
+<body class="caixaLU">
+    <div class="wallpaper">
+        <div class="box">
+            <div class="header-login">
+                <h1>Login-Paciente</h1>
+            </div>
+            <form asp-controller="Login" asp-action="EntrarPaciente" method="post" id="Login">
+                <div class="input-box form">
+                    <label for="email">Email:</label><br>
+                    <ion-icon name="mail-outline"></ion-icon>
+                    <input asp-for="Email" type="email" id="email" name="email" required>
+                </div>
+                <div class="input-box form">
+                    <label for="password">Senha:</label><br>
+                    <ion-icon name="lock-closed-outline"></ion-icon>
+                    <input asp-for="Senha" type="password" id="senha" name="senha" required>
+                </div>
+                <div class="login-content">
+                    <div class="input-box form">
+                        <input for="submit" type="submit" id="enviar" name="senha" value="Login" class="login-submit" required>
+                    </div>
+                </div>
+                <div class="redirecionar">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Paciente" asp-action="Index">Cadastre-se</a>
+                </div> <br>
+               
+                <div class="redirecionar">
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Login" asp-action="LoginMedico">Logar como medico</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>

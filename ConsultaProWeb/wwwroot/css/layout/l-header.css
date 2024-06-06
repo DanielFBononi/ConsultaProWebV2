@@ -1,0 +1,48 @@
+﻿@charset "UTF-8";
+
+.l-header {
+    background-color: #18a168;
+    padding: 2rem 2rem 1rem;
+}
+
+.l-header__brand {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.l-header__logo {
+    border-radius: 50%;
+    height: 100px;
+    width: 105px;
+}
+
+.l-header__link {
+    color: #fff;
+    cursor: point;
+    font-size: 20px;
+    font-weight: 900;
+    text-decoration: none;
+}
+
+.l-header__navigation {
+    padding: 1rem 0 0;
+}
+
+.l-header__list {
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.l-header__item {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.l-header__item-link {
+    color: inherit;
+    font-weight: inherit;
+    text-decoration: none;
+}

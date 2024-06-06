@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8" />
+        <base href="." target="_blank" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta http-equiv="Content-Language" content="pt-br" />
+        <meta http-equiv="pragma" content="no-cache"  />
+        <meta http-equiv="imagetoolbar" content="no" />
+        <meta 
+            name="viewport" 
+            content="width=device-width, initial-scale=1.0, maximum-scale=4.0, minimum-scale=1.0, user-scalable=yes" 
+        />
+        <meta 
+            name="author" 
+            content="Daniel F. Bononi;LUcas Cotrim; Jhúlia Nogueira" 
+        />
+        <meta name="keywords" content="saúde, agendamento, online, facilitar, ajuda" />
+        <meta name="description" content="" />
+        <meta name="reply-to" content="jhuliacaetano28@gmail.com" />
+        <meta name="copyright" content="2023 Consulta Pro Web. Todos os direitos reservados." />
+        <meta name="rating" content="Mature" />
+        <meta name="robots" content="noindex, nofollow" />
+        <meta name="googlebot" content="nofollow, noindex" />
+        <meta name="googlebot" content="translate" />
+        <meta name="revisit-after" content="7 days" />
+        <title>@ViewData["Title"] - ConsultaProWeb</title>
+    <link rel="stylesheet" href="~/css/base/reset.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/index.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/layout/l-header.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/layout/l-main.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/layout/l-footer.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Style.css" asp-append-version="true" />
+   @* <link rel="stylesheet" href="~/css/Cadastro.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/formulario.css" asp-append-version="true" />*@
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
+    </head>
+    <body>
+
+   
+        <header class="l-header">
+            <div class="l-header__brand">
+               <h1>
+                    <img 
+                        src="~/assets/brand/logo-light.jpeg" 
+                        alt="Um calendário em fundo branco com arames verdes com os escritos Conteudo Pro Web ao lado" 
+                        class="l-header__logo"
+                    />
+               </h1>
+            @await Component.InvokeAsync("MenuView")
+        </header>
+        <main class="l-main">
+            @RenderBody()
+        </main>
+        <footer class="l-footer">
+            <p>&copy; 2024 Consulta Pro Web. Todos os direitos reservados.</p>
+        </footer>
+        @await RenderSectionAsync("Scripts", required: false)
+    </body>
+</html>

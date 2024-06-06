@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\brand\\logo-dark.png",
+      "PackagePath": "staticwebassets\\assets\\brand\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\brand\\logo-light.jpeg",
+      "PackagePath": "staticwebassets\\assets\\brand\\logo-light.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\anderson.png",
+      "PackagePath": "staticwebassets\\assets\\images\\anderson.png"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\atendimento3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\atendimento3.png"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\daniel.png",
+      "PackagePath": "staticwebassets\\assets\\images\\daniel.png"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\fernando.png",
+      "PackagePath": "staticwebassets\\assets\\images\\fernando.png"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\gustavo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\gustavo.png"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\jhulia.png",
+      "PackagePath": "staticwebassets\\assets\\images\\jhulia.png"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\lucas.png",
+      "PackagePath": "staticwebassets\\assets\\images\\lucas.png"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicaia.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\medicaia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicoatendendo.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\medicoatendendo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicoia.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\medicoia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicoia2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\medicoia2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicoia3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\medicoia3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicoia4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\medicoia4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\Cadastro.css",
+      "PackagePath": "staticwebassets\\css\\Cadastro.css"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\base\\reset.css",
+      "PackagePath": "staticwebassets\\css\\base\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\formulario.css",
+      "PackagePath": "staticwebassets\\css\\formulario.css"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\layout\\l-footer.css",
+      "PackagePath": "staticwebassets\\css\\layout\\l-footer.css"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\layout\\l-header.css",
+      "PackagePath": "staticwebassets\\css\\layout\\l-header.css"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\layout\\l-main.css",
+      "PackagePath": "staticwebassets\\css\\layout\\l-main.css"
+    },
+    {
+      "Id": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\js\\Cpw.js",
+      "PackagePath": "staticwebassets\\js\\Cpw.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ConsultaProWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ConsultaProWeb.props",
+      "PackagePath": "build\\ConsultaProWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ConsultaProWeb.props",
+      "PackagePath": "buildMultiTargeting\\ConsultaProWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ConsultaProWeb.props",
+      "PackagePath": "buildTransitive\\ConsultaProWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

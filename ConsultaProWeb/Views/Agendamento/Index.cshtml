@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Medico>
+@{
+    <link rel="stylesheet" href="~/css/Style.css" asp-append-version="true" />
+}
+<body>
+
+
+    @if (Model != null && Model.Any())
+    {
+        foreach (Medico medico in Model)
+        {
+            <div class="card">
+@*                <img src="fotos/medicoia.jpg" alt="Foto do Médico" class="profile-image imagem">
+*@                <div class="details">
+                    <h2>@medico.Nome</h2>
+                    <p>@medico.RuaAvenida</p>
+                    <p>@medico.ConvenioID</p>
+                    <p>Preço da Consulta: R$ ---,--</p>
+                </div>
+                <div class="btnagenda" onclick="openModal()">
+                    <button class="botaoA">Agendamento</button>
+                </div>
+            </div>
+        }
+    }
+   
+
+   
+    
+</body>
+<div class="modal" id="myModal">
+    <div class="modal-content">
+        <span class="close" id="closeModal">&times;</span>
+        <div class="agenda">
+            <label for="Name">Nome completo</label><br>
+            <input type="text" id="Name" name="Name" required><br>
+            <label for="email">Email</label><br>
+            <input type="email" id="email" name="email" required><br>
+            <label for="password">Telefone</label><br>
+            <input type="tel" id="Tel" name="Tel" placeholder="(99)99999-9999" required><br>
+            <label for="appointmentDate">Escolha a data:</label><br>
+            <input type="date" id="appointmentDate" name="appointmentDate" required><br>
+            <button class="botaoA">Enviar</button>
+        </div>
+    </div>
+</div><script src="~/js/Cpw.js"></script>

@@ -1,0 +1,62 @@
+﻿@using Microsoft.AspNetCore.Http
+@using Newtonsoft.Json
+@inject IHttpContextAccessor HttpContextAccessor
+
+
+
+@{
+    var sessaoUsuario = HttpContextAccessor.HttpContext.Session.GetString("sessaoUsuarioLogado");
+    dynamic usuario = null;
+    string tipoUsuario = "";
+
+    if (!string.IsNullOrEmpty(sessaoUsuario))
+    {
+
+        usuario = JsonConvert.DeserializeObject<dynamic>(sessaoUsuario);
+        if (usuario.CRM != null)
+        {
+            tipoUsuario = "Medico";
+        }
+        else
+        {
+            tipoUsuario = "Paciente";
+        }
+
+    }
+}
+
+<li class="l-header__item user-menu">
+    <div class="user-icon" onclick="toggleMenu()">
+        <i class="fa fa-user"></i>
+    </div>
+    <div id="menu-dropdown" class="menu-dropdown">
+        <a asp-controller="Login" asp-action="Sair">Sair</a>
+        @if (tipoUsuario == "Paciente")
+        {
+            <a asp-controller="Paciente" asp-action="PacienteDelete">Deletar Conta</a>
+        }
+        else if (tipoUsuario == "Medico")
+        {
+            <a asp-controller="Medico" asp-action="MedicoDelete">Deletar Conta</a>
+        }
+    </div>
+</li>
+            </div>
+<nav class="l-header__navigation">
+    <ul class="l-header__list">
+        <li class="l-header__item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+        </li>
+
+        <li class="l-header__item">
+        <li class="l-header__item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Agendamento" asp-action="Index">Agendamento</a>
+        </li>
+        </li>
+        <li class="l-header__item">
+            <a class="nav-link text-dark" asp-area="" asp-controller="Sobre" asp-action="Index">Sobre</a>
+        </li>
+
+    </ul>
+</nav>
+<script src="~/js/Cpw.js"></script>

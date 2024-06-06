@@ -1,0 +1,324 @@
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.staticwebassets.runtime.json
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.exe
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.deps.json
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.runtimeconfig.json
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.dll
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.pdb
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.csproj.AssemblyReference.cache
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.AssemblyInfoInputs.cache
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.AssemblyInfo.cs
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.csproj.CoreCompileInputs.cache
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.RazorAssemblyInfo.cache
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.RazorAssemblyInfo.cs
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.ConsultaProWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ConsultaProWeb.props
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ConsultaProWeb.props
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ConsultaProWeb.props
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\scopedcss\bundle\ConsultaProWeb.styles.css
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.dll
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\refint\ConsultaProWeb.dll
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.pdb
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.genruntimeconfig.cache
+C:\Users\2971392321012\Downloads\consulta-pro-web\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ref\ConsultaProWeb.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.staticwebassets.runtime.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.exe
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.deps.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.runtimeconfig.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.pdb
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.csproj.AssemblyReference.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.AssemblyInfoInputs.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.AssemblyInfo.cs
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.csproj.CoreCompileInputs.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.RazorAssemblyInfo.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.RazorAssemblyInfo.cs
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.ConsultaProWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ConsultaProWeb.props
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ConsultaProWeb.props
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ConsultaProWeb.props
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\scopedcss\bundle\ConsultaProWeb.styles.css
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\refint\ConsultaProWeb.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.pdb
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.genruntimeconfig.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ref\ConsultaProWeb.dll
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.csproj.AssemblyReference.cache
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.AssemblyInfo.cs
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.RazorAssemblyInfo.cache
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.RazorAssemblyInfo.cs
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.dll
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\refint\ConsultaProWeb.dll
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.pdb
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.staticwebassets.runtime.json
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.exe
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.deps.json
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.runtimeconfig.json
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.dll
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.pdb
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.ConsultaProWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ConsultaProWeb.props
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ConsultaProWeb.props
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ConsultaProWeb.props
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\scopedcss\bundle\ConsultaProWeb.styles.css
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.genruntimeconfig.cache
+C:\Users\Dani\Desktop\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ref\ConsultaProWeb.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.csproj.AssemblyReference.cache
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.AssemblyInfoInputs.cache
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.AssemblyInfo.cs
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.csproj.CoreCompileInputs.cache
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.RazorAssemblyInfo.cache
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.RazorAssemblyInfo.cs
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\refint\ConsultaProWeb.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.pdb
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\appsettings.Development.json
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\appsettings.json
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.staticwebassets.runtime.json
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.exe
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.deps.json
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.runtimeconfig.json
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.pdb
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Azure.Core.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Azure.Identity.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.ConsultaProWeb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ConsultaProWeb.props
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ConsultaProWeb.props
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ConsultaProWeb.props
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\scopedcss\bundle\ConsultaProWeb.styles.css
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.csproj.CopyComplete
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.genruntimeconfig.cache
+D:\Projeto Facu\ConsultaProWeb\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ref\ConsultaProWeb.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.staticwebassets.runtime.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.exe
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.deps.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.runtimeconfig.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.pdb
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.csproj.AssemblyReference.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.AssemblyInfoInputs.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.AssemblyInfo.cs
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.csproj.CoreCompileInputs.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.RazorAssemblyInfo.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.RazorAssemblyInfo.cs
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.ConsultaProWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ConsultaProWeb.props
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ConsultaProWeb.props
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ConsultaProWeb.props
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\scopedcss\bundle\ConsultaProWeb.styles.css
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.csproj.CopyComplete
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\refint\ConsultaProWeb.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.pdb
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.genruntimeconfig.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ref\ConsultaProWeb.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\appsettings.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.staticwebassets.runtime.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.exe
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.deps.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.runtimeconfig.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\ConsultaProWeb.pdb
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.csproj.AssemblyReference.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.AssemblyInfoInputs.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.AssemblyInfo.cs
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.csproj.CoreCompileInputs.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.RazorAssemblyInfo.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.RazorAssemblyInfo.cs
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.ConsultaProWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.ConsultaProWeb.props
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ConsultaProWeb.props
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ConsultaProWeb.props
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\scopedcss\bundle\ConsultaProWeb.styles.css
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.csproj.CopyComplete
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\refint\ConsultaProWeb.dll
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.pdb
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ConsultaProWeb.genruntimeconfig.cache
+C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\obj\Debug\net6.0\ref\ConsultaProWeb.dll

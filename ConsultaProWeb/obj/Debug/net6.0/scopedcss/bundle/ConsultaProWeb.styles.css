@@ -1,0 +1,75 @@
+/* _content/ConsultaProWeb/Views/Shared/_Layout.cshtml.rz.scp.css */
+@charset "UTF-8";
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html[b-f4w5frs4qj], body[b-f4w5frs4qj], div[b-f4w5frs4qj], span[b-f4w5frs4qj], applet[b-f4w5frs4qj], object[b-f4w5frs4qj], iframe[b-f4w5frs4qj],
+h1[b-f4w5frs4qj], h2[b-f4w5frs4qj], h3[b-f4w5frs4qj], h4[b-f4w5frs4qj], h5[b-f4w5frs4qj], h6[b-f4w5frs4qj], p[b-f4w5frs4qj], blockquote[b-f4w5frs4qj], pre[b-f4w5frs4qj],
+a[b-f4w5frs4qj], abbr[b-f4w5frs4qj], acronym[b-f4w5frs4qj], address[b-f4w5frs4qj], big[b-f4w5frs4qj], cite[b-f4w5frs4qj], code[b-f4w5frs4qj],
+del[b-f4w5frs4qj], dfn[b-f4w5frs4qj], em[b-f4w5frs4qj], img[b-f4w5frs4qj], ins[b-f4w5frs4qj], kbd[b-f4w5frs4qj], q[b-f4w5frs4qj], s[b-f4w5frs4qj], samp[b-f4w5frs4qj],
+small[b-f4w5frs4qj], strike[b-f4w5frs4qj], strong[b-f4w5frs4qj], sub[b-f4w5frs4qj], sup[b-f4w5frs4qj], tt[b-f4w5frs4qj], var[b-f4w5frs4qj],
+b[b-f4w5frs4qj], u[b-f4w5frs4qj], i[b-f4w5frs4qj], center[b-f4w5frs4qj],
+dl[b-f4w5frs4qj], dt[b-f4w5frs4qj], dd[b-f4w5frs4qj], ol[b-f4w5frs4qj], ul[b-f4w5frs4qj], li[b-f4w5frs4qj],
+fieldset[b-f4w5frs4qj], form[b-f4w5frs4qj], label[b-f4w5frs4qj], legend[b-f4w5frs4qj],
+table[b-f4w5frs4qj], caption[b-f4w5frs4qj], tbody[b-f4w5frs4qj], tfoot[b-f4w5frs4qj], thead[b-f4w5frs4qj], tr[b-f4w5frs4qj], th[b-f4w5frs4qj], td[b-f4w5frs4qj],
+article[b-f4w5frs4qj], aside[b-f4w5frs4qj], canvas[b-f4w5frs4qj], details[b-f4w5frs4qj], embed[b-f4w5frs4qj],
+figure[b-f4w5frs4qj], figcaption[b-f4w5frs4qj], footer[b-f4w5frs4qj], header[b-f4w5frs4qj], hgroup[b-f4w5frs4qj],
+menu[b-f4w5frs4qj], nav[b-f4w5frs4qj], output[b-f4w5frs4qj], ruby[b-f4w5frs4qj], section[b-f4w5frs4qj], summary[b-f4w5frs4qj],
+time[b-f4w5frs4qj], mark[b-f4w5frs4qj], audio[b-f4w5frs4qj], video[b-f4w5frs4qj] {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article[b-f4w5frs4qj], aside[b-f4w5frs4qj], details[b-f4w5frs4qj], figcaption[b-f4w5frs4qj], figure[b-f4w5frs4qj],
+footer[b-f4w5frs4qj], header[b-f4w5frs4qj], hgroup[b-f4w5frs4qj], menu[b-f4w5frs4qj], nav[b-f4w5frs4qj], section[b-f4w5frs4qj] {
+    display: block;
+}
+
+body[b-f4w5frs4qj] {
+    line-height: 1;
+}
+
+ol[b-f4w5frs4qj], ul[b-f4w5frs4qj] {
+    list-style: none;
+}
+
+blockquote[b-f4w5frs4qj], q[b-f4w5frs4qj] {
+    quotes: none;
+}
+
+    blockquote[b-f4w5frs4qj]:before, blockquote[b-f4w5frs4qj]:after,
+    q[b-f4w5frs4qj]:before, q[b-f4w5frs4qj]:after {
+        content: '';
+        content: none;
+    }
+
+table[b-f4w5frs4qj] {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+body[b-f4w5frs4qj] {
+    display: flex;
+    flex-flow: column nowrap;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+.l-main[b-f4w5frs4qj] {
+    flex: 1;
+}
+
+.l-footer[b-f4w5frs4qj] {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}

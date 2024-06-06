@@ -1,0 +1,228 @@
+﻿/*novo login
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.redirecionar {
+    text-align:center;
+    align-items:center;
+    justify-content: center;
+}
+
+body {
+    background-image: url('../assets/images/medicoatendendo.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+.wallpaper {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.box {
+    position: relative;
+    width: 450px;
+    backdrop-filter: blur(25px);
+    border: 2px solid #18a168;
+    border-radius: 15px;
+    padding: 100px 40px 40px 40px;
+    color: var(--second-color);
+    margin: 120px 0px;
+}
+
+.header-login {
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #18a168;
+    width: 240px;
+    height: 70px;
+    border-radius: 0 0 20px 20px;
+}
+
+    .header-login h1 {
+        font-size: 30px;
+        color: white;
+        font-weight: bold;
+    }
+
+.input-box label {
+    color: white;
+    font-weight: bold;
+}
+
+.input-box {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0;
+}
+
+.input-field {
+    width: 100%;
+    height: 55px;
+    font-size: 16px;
+    background: transparent;
+    color: var(--second-color);
+    padding-inline: 20px 50px;
+    border: 2px solid var(--green-color-second);
+    border-radius: 30px;
+    outline: none;
+}
+
+#email {
+    margin-bottom: 15px;
+}
+
+.label {
+    position: absolute;
+    top: -28px;
+    left: 20px;
+    transition: 0.4s;
+}
+
+.input-field:focus ~ .label,
+.input-field:valid .label {
+    position: absolute;
+    top: -10px;
+    left: 20px;
+    font-size: 14px;
+    background-color: var(--green-color-second);
+    border-radius: 30px;
+    color: var(--second-color);
+    padding: 0px 10px;
+}
+
+.icon {
+    position: absolute;
+    top: 18px;
+    right: 25px;
+    font-size: 20px;
+}
+
+.remember-forgot {
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+}
+
+#remember {
+    accent-color: var(--green-color-second);
+}
+
+.input-submit {
+    width: 100%;
+    height: 50px;
+    background: var(--green-color-second);
+    color: var(--second-color);
+    font-size: 16px;
+    font-weight: 700;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: .3s;
+}
+
+    .input-submit:hover {
+        background-color: var(--green-color-primary);
+    }
+
+.register {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+    .register a {
+        font-weight: 700;
+        padding: 0 5px;
+        font-size: 14px;
+    }
+
+.home {
+    transition: .4s;
+}
+
+    .home:hover {
+        opacity: .8;
+        text-decoration: none;
+    }
+.login-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-submit {
+    width: 260px;
+    height: 40px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    border: 1px solid #4CAF50;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: .4s;
+}
+
+    .login-submit:hover {
+        border: 1.5px solid white;
+        background-color: #4CAF10;
+    }
+
+@media screen and (max-width: 564px) {
+    .wallpaper {
+        padding: 20px;
+    }
+
+    .box {
+        padding: 100px 30px 40px 30px;
+    }
+}
+
+@keyframes blink {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.icon.blinking {
+    animation: blink 1s infinite;
+}
+
+
+/*novo login
+*/

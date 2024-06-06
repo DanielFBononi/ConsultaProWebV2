@@ -1,0 +1,97 @@
+﻿@model Medico
+@{
+    ViewData["Title"] = "Cadastro Medico";
+    <link rel="stylesheet" href="~/css/formulario.css" asp-append-version="true" />
+    Layout = null; 
+}
+
+<body>
+    <div class="wallpaper">
+        <div class="box">
+            <div class="header-login">
+                <h2>Cadastro - Médico</h2>
+            </div>
+            <form asp-controller="Medico" asp-action="MedicoCadastro" method="post" id="cadastro">
+                <div class="input-box form">
+                    <label for="CRM">CRM:</label><br>
+                    <ion-icon name="clipboard-outline"></ion-icon>
+                    <input asp-for="CRM" type="text" placeholder="digite Seu CRM" id="CRM" required>
+                </div>
+                    <div class="input-box form">
+                    <label for="Especialidade">Especialidade:</label>
+                    <select asp-for="Id_Especialidade" id="Especialidade">
+                        @await Component.InvokeAsync("EspecialidadeView")
+                    </select>
+                </div>
+
+                <div class="input-box form">
+                    <label for="email">Email:</label><br>
+                    <ion-icon name="mail-outline"></ion-icon>
+                    <input asp-for="Email" type="email" id="email" name="email" required>
+                </div>
+            
+                <div class="input-box form">
+                    <label for="Name">Nome:</label><br>
+                    <ion-icon name="person-circle-outline"></ion-icon>
+                    <input asp-for="Nome" type="text" placeholder="Digite o seu nome Completo" id="nome" required>
+                </div>
+
+                <div class="input-box form">
+                    <label for="password">Senha:</label><br>
+                    <ion-icon name="lock-closed-outline"></ion-icon>
+                    <input asp-for="Senha" type="password" id="senha" name="senha" required>
+                </div>
+
+                <div class="input-box form">
+                    <label for="password">Confirmar senha:</label><br>
+                    <ion-icon name="lock-closed-outline"></ion-icon>
+                    <input asp-for="Senha" type="password" id="confirmarSenha" name="confirmarSenha" required>
+                </div>
+                <div class="input-box form">
+                    <label>Consultório:</label><br>
+                    <ion-icon name="business-outline"></ion-icon>
+                    <input asp-for="Consultorio" type="text" placeholder="Digite o Nome do seu consultorio" id="Consultorio" name="Consultorio" required>
+                </div>
+                <div class="input-box form">
+                    <label for="Name">Rua/Avenida:</label><br>
+                    <input asp-for="RuaAvenida" type="text" placeholder="Digite o Nome da rua" id="RuaAvenida" name="RuaAvenida" required>
+                </div>
+                <div class="input-box form">
+                    <label for="Name">Nº:</label><br>
+                    <input asp-for="Numero" type="text" placeholder="Digite o numero do endereco" id="Numero" name="Numero" required>
+                </div>
+                <div class="input-box form">
+                    <label for="Name">CEP:</label><br>
+                    <input asp-for="CEP" type="text" placeholder="Digite o Cep" id="cep" name="cep" required>
+                </div>
+                <div class="input-box form">
+                    <label for="Name">Bairro:</label><br>
+                    <input asp-for="Bairro" type="text" placeholder="Digite o Nome do seu bairro" id="bairro" name="bairro" required>
+                </div>
+
+                <div class="input-box form">
+                    <label for="ConvenioID">Convênio:</label>
+                    <select asp-for="ConvenioID" id="ConvenioID">
+                        @await Component.InvokeAsync("ConvenioView")
+                    </select>
+                </div>
+                <div class="login-content">
+                    <div class="input-box form">
+                        <input for="submit" type="submit" id="enviar" name="senha" value="Cadastrar" class="login-submit" required>
+                    </div>
+                </div>
+               
+                    <div class="redirecionar">
+                        <a class="nav-link text-white" asp-area="" asp-controller="Login" asp-action="LoginMedico">Ja possui uma conta ? realize o login</a>
+                    </div>
+                    <div class="redirecionar">
+                        <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Volte para o inicio</a>
+                    </div>
+
+            </form>
+       
+        </div>
+    </div>
+</body>
+    <script  type = "module"  src = "https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script  nomodule  src = "https://unpkg .com/ionicons@7.1.0/dist/ionicons/ionicons.js" ></script>
