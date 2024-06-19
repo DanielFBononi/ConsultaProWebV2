@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uBjLIAi9VXRwGAxnr418hMSpeJhSrud4UTVDi+SfWZY=",
+  "Hash": "c2AGFAiD3G8QWd5/OpASnpghDqPIIzm+0XlSye/OttA=",
   "Source": "ConsultaProWeb",
   "BasePath": "_content/ConsultaProWeb",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ConsultaProWeb\\wwwroot",
       "Source": "ConsultaProWeb",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\brand\\logo-dark.png",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\brand\\logo-dark.png",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "assets/brand/logo-dark.png",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\brand\\logo-dark.png"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\brand\\logo-light.jpeg",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\brand\\logo-light.jpeg",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "assets/brand/logo-light.jpeg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\brand\\logo-light.jpeg"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\anderson.png",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\anderson.png",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "assets/images/anderson.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\anderson.png"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\atendimento3.png",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\atendimento3.png",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "assets/images/atendimento3.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\atendimento3.png"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\daniel.png",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\daniel.png",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "assets/images/daniel.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\daniel.png"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\fernando.png",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\fernando.png",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "assets/images/fernando.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\fernando.png"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\gustavo.png",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\gustavo.png",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "assets/images/gustavo.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\gustavo.png"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\jhulia.png",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\jhulia.png",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "assets/images/jhulia.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\jhulia.png"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\lucas.png",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\lucas.png",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "assets/images/lucas.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\lucas.png"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicaia.jpg",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicaia.jpg",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "assets/images/medicaia.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\medicaia.jpg"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicoatendendo.jpeg",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicoatendendo.jpeg",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "assets/images/medicoatendendo.jpeg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\medicoatendendo.jpeg"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicoia.jpg",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicoia.jpg",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "assets/images/medicoia.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\medicoia.jpg"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicoia2.jpg",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicoia2.jpg",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "assets/images/medicoia2.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\medicoia2.jpg"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicoia3.jpg",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicoia3.jpg",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "assets/images/medicoia3.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\medicoia3.jpg"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicoia4.jpg",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\assets\\images\\medicoia4.jpg",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "assets/images/medicoia4.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\medicoia4.jpg"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\base\\reset.css",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\base\\reset.css",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "css/base/reset.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\base\\reset.css"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\Cadastro.css",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\Cadastro.css",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "css/Cadastro.css",
       "AssetKind": "All",
@@ -306,10 +306,27 @@
       "OriginalItemSpec": "wwwroot\\css\\Cadastro.css"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\formulario.css",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\editperfil.css",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "BasePath": "_content/ConsultaProWeb",
+      "RelativePath": "css/editperfil.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\editperfil.css"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\formulario.css",
+      "SourceId": "ConsultaProWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "css/formulario.css",
       "AssetKind": "All",
@@ -323,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\formulario.css"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\index.css",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\index.css",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "css/index.css",
       "AssetKind": "All",
@@ -340,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\css\\index.css"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\layout\\l-footer.css",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\layout\\l-footer.css",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "css/layout/l-footer.css",
       "AssetKind": "All",
@@ -357,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\layout\\l-footer.css"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\layout\\l-header.css",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\layout\\l-header.css",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "css/layout/l-header.css",
       "AssetKind": "All",
@@ -374,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\css\\layout\\l-header.css"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\layout\\l-main.css",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\layout\\l-main.css",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "css/layout/l-main.css",
       "AssetKind": "All",
@@ -391,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\css\\layout\\l-main.css"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\Style.css",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\css\\Style.css",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "css/Style.css",
       "AssetKind": "All",
@@ -408,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Style.css"
     },
     {
-      "Identity": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\js\\Cpw.js",
+      "Identity": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\js\\Cpw.js",
       "SourceId": "ConsultaProWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\2971392321016\\OneDrive\\Área de Trabalho\\2 semestre\\Projeto 2 Semestre\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\Projeto Faculdade VFinal\\ConsultaProWeb\\ConsultaProWeb\\wwwroot\\",
       "BasePath": "_content/ConsultaProWeb",
       "RelativePath": "js/Cpw.js",
       "AssetKind": "All",

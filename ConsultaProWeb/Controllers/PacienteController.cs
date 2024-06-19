@@ -56,11 +56,30 @@ namespace ConsultaProWeb.Controllers
                 catch (Exception erro)
                 {
                     TempData["MensagemErro"] = $"NÃO FOI POSSIVEL REALIZAR A EXCLUSÃO:{erro.Message}";
-                    return View("");
+                    return View("Index", "Home");
                 }
             }
+     
 
+     
+        public ActionResult PacienteEdit(Pacientes paciente)
+        {
+            try
+            {
+                Pacientes pacienteLogado = _sessao.BuscarSessaoDoPaciente();
+                Pacientes Novopaciente = _pacienterepositorio.EditarPaciente(pacienteLogado.Id_Paciente, paciente);
+
+
+                return RedirectToAction("Index", "Home");
+
+            }
+            catch (Exception erro)
+            {
+                TempData["MensagemErro"] = $"NÃO FOI POSSIVEL REALIZAR A ALTERAÇÃO NO USUARIO:{erro.Message}";
+                return RedirectToAction("Index", "Home");
+            }
         }
+    }
     }
 
 

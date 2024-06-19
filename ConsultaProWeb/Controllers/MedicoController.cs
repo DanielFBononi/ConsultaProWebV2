@@ -57,6 +57,22 @@ namespace ConsultaProWeb.Controllers
                 return View("");
             }
         }
+        public ActionResult MedicoEdit(Medico medico)
+        {
+            try
+            {
+                Medico medicoLogado = _sessao.BuscarSessaoDoMedico();
+                Medico Novomedico = _medicorepositorio.EditarMedico(medicoLogado.Id_Medico, medico);
 
+
+                return RedirectToAction("Index", "Home");
+
+            }
+            catch (Exception erro)
+            {
+                TempData["MensagemErro"] = $"NÃO FOI POSSIVEL REALIZAR A ALTERAÇÃO NO USUARIO:{erro.Message}";
+                return RedirectToAction("Index", "Home");
+            }
+        }
     }
 }

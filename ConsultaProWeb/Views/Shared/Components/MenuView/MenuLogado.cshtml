@@ -33,6 +33,16 @@
         <a asp-controller="Login" asp-action="Sair">Sair</a>
         @if (tipoUsuario == "Paciente")
         {
+            <a asp-controller="EditarPerfil" asp-action="Index">Editar Perfil</a>
+        }
+        else if (tipoUsuario == "Medico")
+        {
+            <a asp-controller="EditarPerfil" asp-action="MedicoEditar">Editar Perfil</a>
+            
+        }
+
+        @if (tipoUsuario == "Paciente")
+        {
             <a asp-controller="Paciente" asp-action="PacienteDelete">Deletar Conta</a>
         }
         else if (tipoUsuario == "Medico")
@@ -47,7 +57,7 @@
         <li class="l-header__item">
             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
         </li>
-
+      
         <li class="l-header__item">
         <li class="l-header__item">
             <a class="nav-link text-dark" asp-area="" asp-controller="Agendamento" asp-action="Index">Agendamento</a>

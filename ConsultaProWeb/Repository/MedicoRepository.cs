@@ -60,8 +60,7 @@ namespace ConsultaProWeb.Repository
           
 
             medicousuariodb.Nome = medicousuario.Nome;
-            medicousuariodb.CRM = medicousuario.CRM;
-            medicousuariodb.Id_Especialidade = medicousuario.Id_Especialidade;
+            medicousuariodb.Email = medicousuario.Email;
             medicousuariodb.Consultorio = medicousuario.Consultorio;
             medicousuariodb.RuaAvenida = medicousuario.RuaAvenida;
             medicousuariodb.Numero = medicousuario.Numero;

@@ -43,7 +43,7 @@ namespace ConsultaProWeb.Repository
             pacienteusuariodb.DataNascimento = pacientesusuario.DataNascimento;
             pacienteusuariodb.Email = pacientesusuario.Email;
             pacienteusuariodb.Telefone = pacientesusuario.Telefone;
-            pacienteusuariodb.Senha = pacientesusuario.Senha;
+   
            
 
             _dbContext.Pacientes.Update(pacienteusuariodb);

@@ -37,6 +37,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="Views\EditarPerfil\MedicoEditar.cshtml~RF44ad9f15.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\css\editperfil.css" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.19" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.19" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />

@@ -14,8 +14,16 @@
 *@                <div class="details">
                     <h2>@medico.Nome</h2>
                     <p>@medico.RuaAvenida</p>
-                    <p>@medico.ConvenioID</p>
-                    <p>Preço da Consulta: R$ ---,--</p>
+                    @if (medico.ConvenioID == 1)
+                    {
+                        <p>Dunimed</p>
+                    }
+                    else if (medico.ConvenioID == 2)
+                    {
+                        <p>Temed</p>
+
+                    }
+                    
                 </div>
                 <div class="btnagenda" onclick="openModal()">
                     <button class="botaoA">Agendamento</button>

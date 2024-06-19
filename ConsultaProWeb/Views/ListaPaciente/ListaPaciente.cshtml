@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Pacientes>
+@{
+    <link rel="stylesheet" href="~/css/Style.css" asp-append-version="true" />
+}
+<body>
+
+
+    @if (Model != null && Model.Any())
+    {
+        foreach (Pacientes paciente in Model)
+        {
+            <div class="card">
+                @*                
+        *@                <div class="details">
+                    <h2>@paciente.Nome</h2>
+                    <p>@paciente.Email</p>
+                    <p>@paciente.Telefone</p>
+                    <p>@paciente.DataNascimento</p>
+                  
+
+
+                </div>
+              
+            </div>
+        }
+    }
+</body>

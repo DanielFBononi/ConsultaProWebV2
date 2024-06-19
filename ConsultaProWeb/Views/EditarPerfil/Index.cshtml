@@ -1,0 +1,94 @@
+﻿@model Pacientes
+@{
+    <link rel="stylesheet" href="~/css/editperfil.css" asp-append-version="true" />
+    Layout = null;
+}
+<body>
+
+    <main>
+         <form asp-controller="Paciente" asp-action="PacienteEdit" method="post" id="editar">
+        <div class="box">
+            <section class="tab">
+                <button class="tablinks">
+                    <i class="fa-solid fa-user" onclick="openCity(event, 'edit-input')" style="color: black;"></i>
+                </button>
+            </section>
+            <section class="tab">
+                <button class="tablinks" onclick="openCity(event, 'output')">
+                    <i class="fa-solid fa-right-to-bracket" style="color: black;"></i>
+                </button>
+            </section>
+            <div id="edit-input" class="tabcontent" style="display: none;">
+
+                <label for="Nome">Nome:</label><br>
+                    <ion-icon name="person-circle-outline"></ion-icon>
+                    <input asp-for="Nome" type="text" placeholder="digite o seu primeiro nome" id="Nome" required><br />
+                <!--  -->
+                <label for="DataNascimento">Data de nascimento:</label><br>
+                    <ion-icon name="calendar-outline"></ion-icon>
+                    <input asp-for="DataNascimento" type="date" id="DataNascimento" required><br />
+                <!--  -->
+                 <label for="Telefone">Telefone:</label><br>
+                    <ion-icon name="call-outline"></ion-icon>
+                    <input asp-for="Telefone" type="text" id="Telefone" placeholder="(99)99999-9999" required><br />
+                    <!--  -->
+                    <label for="ConvenioID">Convênio:</label><br />
+                    <select asp-for="ConvenioID" id="ConvenioID">
+                        <br />
+                        @await Component.InvokeAsync("ConvenioView")
+                    </select>
+                    <!--  -->
+                     <label for="Email">Email:</label><br>
+                    <ion-icon name="mail-outline"></ion-icon>
+                    <input asp-for="Email" type="email" id="Email" required>
+                    <!--  -->
+                   
+                     <div class="login-content">
+                    <div class="input-box form">
+                        <input for="submit" type="submit" id="enviar" name="Editar" value="Editar" class="login-submit" required>
+                    </div>
+                </div>
+            </div>
+             <div id="output" class="tabcontent" style="display: none;">
+                                <a asp-controller="Login" asp-action="Sair">
+                                    <button class="output-button">Sair</button>
+                                </a>
+
+                            </div>
+                </div>
+            
+        </form>
+            <!--  -->
+            
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" />
+        
+       
+
+
+
+
+
+
+
+
+
+
+
+
+    </main>
+    <script>
+        function openCity(evt, cityName) {
+          var i, tabcontent, tablinks;
+          tabcontent = document.getElementsByClassName("tabcontent");
+          for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+          }
+          tablinks = document.getElementsByClassName("tablinks");
+          for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+          }
+          document.getElementById(cityName).style.display = "block";
+          evt.currentTarget.className += " active";
+        }
+    </script>
+</body>

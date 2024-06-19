@@ -9,73 +9,85 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsultaProWeb
 build_property.RootNamespace = ConsultaProWeb
-build_property.ProjectDir = C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\
+build_property.ProjectDir = C:\Users\PC\Desktop\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\2971392321016\OneDrive\Área de Trabalho\2 semestre\Projeto 2 Semestre\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb
+build_property.MSBuildProjectDirectory = C:\Users\PC\Desktop\Projeto Faculdade VFinal\ConsultaProWeb\ConsultaProWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/2971392321016/OneDrive/Área de Trabalho/2 semestre/Projeto 2 Semestre/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Agendamento/Index.cshtml]
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Agendamento/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhbWVudG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2971392321016/OneDrive/Área de Trabalho/2 semestre/Projeto 2 Semestre/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Home/Index.cshtml]
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/EditarPerfil/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdGFyUGVyZmlsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/EditarPerfil/MedicoEditar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdGFyUGVyZmlsXE1lZGljb0VkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2971392321016/OneDrive/Área de Trabalho/2 semestre/Projeto 2 Semestre/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Login/LoginMedico.cshtml]
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/ListaPaciente/ListaPaciente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGFQYWNpZW50ZVxMaXN0YVBhY2llbnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Login/LoginMedico.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW5NZWRpY28uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2971392321016/OneDrive/Área de Trabalho/2 semestre/Projeto 2 Semestre/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Login/LoginPaciente.cshtml]
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Login/LoginPaciente.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW5QYWNpZW50ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2971392321016/OneDrive/Área de Trabalho/2 semestre/Projeto 2 Semestre/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Medico/Index.cshtml]
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Medico/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2971392321016/OneDrive/Área de Trabalho/2 semestre/Projeto 2 Semestre/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Paciente/Index.cshtml]
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Paciente/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2971392321016/OneDrive/Área de Trabalho/2 semestre/Projeto 2 Semestre/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Shared/Components/ConvenioView/Convenio.cshtml]
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Shared/Components/ConvenioView/Convenio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udmVuaW9WaWV3XENvbnZlbmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2971392321016/OneDrive/Área de Trabalho/2 semestre/Projeto 2 Semestre/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Shared/Components/EspecialidadeView/Especialidade.cshtml]
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Shared/Components/EspecialidadeView/Especialidade.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRXNwZWNpYWxpZGFkZVZpZXdcRXNwZWNpYWxpZGFkZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2971392321016/OneDrive/Área de Trabalho/2 semestre/Projeto 2 Semestre/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Shared/Components/MenuView/MenuDeslogado.cshtml]
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Shared/Components/MenuView/MenuDeslogado.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVZpZXdcTWVudURlc2xvZ2Fkby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2971392321016/OneDrive/Área de Trabalho/2 semestre/Projeto 2 Semestre/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Shared/Components/MenuView/MenuLogado.cshtml]
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Shared/Components/MenuView/MenuLogado.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVZpZXdcTWVudUxvZ2Fkby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2971392321016/OneDrive/Área de Trabalho/2 semestre/Projeto 2 Semestre/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Shared/Error.cshtml]
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2971392321016/OneDrive/Área de Trabalho/2 semestre/Projeto 2 Semestre/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Shared/_Layout.cshtml]
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2971392321016/OneDrive/Área de Trabalho/2 semestre/Projeto 2 Semestre/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2971392321016/OneDrive/Área de Trabalho/2 semestre/Projeto 2 Semestre/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Sobre/Index.cshtml]
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/Sobre/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29icmVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2971392321016/OneDrive/Área de Trabalho/2 semestre/Projeto 2 Semestre/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/_ViewImports.cshtml]
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/2971392321016/OneDrive/Área de Trabalho/2 semestre/Projeto 2 Semestre/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/_ViewStart.cshtml]
+[C:/Users/PC/Desktop/Projeto Faculdade VFinal/ConsultaProWeb/ConsultaProWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
